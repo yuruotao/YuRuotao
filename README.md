@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YuRuotao
-- 👀 I’m interested in STEM
+- 👀 I’m interested in various of stuff
 - 🌱 I’m currently learning electrical engineering
-- 💞️ I’m looking forward to collaborate on biomedical engineering
+- 💞️ I’m looking forward to exploring the field of biomedical engineering
 - 📫 How to reach me yuruotao@outlook.com is my email, please feel free to contact me!
 
 <!---
